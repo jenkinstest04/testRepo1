@@ -6,7 +6,7 @@ pipeline{
                 branch master
             }
             steps{
-                echo "Building master branch successfully"
+                echo "Building dev branch successfully"
             }
         }
     }
